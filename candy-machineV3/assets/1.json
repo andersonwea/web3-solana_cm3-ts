@@ -1,0 +1,27 @@
+{
+    "name": "Shinobi #02",
+    "symbol": "shinobi",
+    "description": "Collection of 09 shinobis on the blockchain.",
+    "seller_fee_basis_points": 500,
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "Legendary",
+            "value": "Deep Sea Ninja"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "Hy5vicswJHVgB9yHtbeZBCV56QxmUnVezA3q1wiYCMrm",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

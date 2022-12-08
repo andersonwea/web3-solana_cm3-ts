@@ -1,0 +1,46 @@
+{
+  "number": 9,
+  "symbol": "shinobi",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "GuSiNDJi83dyDL4DWL5YMEB4JLt9BAjn49nsf3fyeUsk",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "botTax": {
+        "value": 0.20,
+        "lastInstruction": true
+      }
+    },
+    "groups": [
+      {
+        "label": "OG",
+        "guards": {
+          "startDate": {
+            "date": "2022-10-20 12:00:00 +0000"
+          },
+          "solPayment": {
+            "value": 0.10,
+            "destination":"GuSiNDJi83dyDL4DWL5YMEB4JLt9BAjn49nsf3fyeUsk"
+          },
+          "mintLimit" : {
+            "id": 10,
+            "limit": 20
+         }
+        } 
+      }
+    ]
+  }  
+}    
+  

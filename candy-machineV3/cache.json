@@ -1,0 +1,90 @@
+{
+  "program": {
+    "candyMachine": "4L5oYv4RA6mgcLpZ9cQEc2SKsYhoM6Q7Wv1XE5saKqzV",
+    "candyGuard": "4aR1wLK2YD98KvYok2o75PGwcTSLQnFgPFAeJpSLMaNq",
+    "candyMachineCreator": "DXsLBuKDL7Wj9PLrngAdXk1WiqA55Ao5fCg9PLHGKzbr",
+    "collectionMint": "Cn7kUev73ByYieXCuUYxJL5kbFgxpdF5BoW8xCHtUTq"
+  },
+  "items": {
+    "-1": {
+      "name": "Shinobis",
+      "image_hash": "9cd9ae07f35ad41c9b1f375487114881b90d6038b0b2f465611a9b7b012b9477",
+      "image_link": "https://arweave.net/oCOxfiAc4lvUsJO7djg0xWqnVStyEV_VxT9N9zbvdPw?ext=png",
+      "metadata_hash": "ca76a5d533d0f08d5ef9cda664b80de09d35219c304925b6baeb7bdb6f8854f3",
+      "metadata_link": "https://arweave.net/wdwSIA_euO7-WOGDQ315vE_vpWhWO6ZjwxrM_3ofLXI",
+      "onChain": true
+    },
+    "0": {
+      "name": "Shinobi #01",
+      "image_hash": "a68a394e3b0e4db086f5be01d66b63685885df4277e07b28e64312174d7a5ad5",
+      "image_link": "https://arweave.net/RSz8FrV6pdDvlKHa8F6wJi6zI1_0oQcvVnE0337EJk0?ext=png",
+      "metadata_hash": "eeafa62ca26b77ea6e39339d417db55c9435bcd521f4d6d9ab83ae63cb5d988b",
+      "metadata_link": "https://arweave.net/O1yQP6WJ6qq8A0HY6TfBpzIi67iTg3ig-3QsrJx4ziY",
+      "onChain": true
+    },
+    "1": {
+      "name": "Shinobi #02",
+      "image_hash": "eb0bf71a5c52554ed3655bb0f6fa2e7b8e3da9f2d570b8f6b11a7ff931afb4f0",
+      "image_link": "https://arweave.net/t51MDZKyFzgm8v4DsHrn2q8d3aZSdGjDm_DcD7f96yg?ext=png",
+      "metadata_hash": "bfab0f7e01ee58860461b4626383dd00e994a6adedd3233b8c42313b6ae68eae",
+      "metadata_link": "https://arweave.net/degRF8Aa6wiqtD96L6I9ouaLxPIE_Du_0CNToHIia9M",
+      "onChain": true
+    },
+    "2": {
+      "name": "Shinobi #03",
+      "image_hash": "610cb9348eb6895de8aa28007f514a0efeb4d0073fa5a440d7bdeeb05cdf9463",
+      "image_link": "https://arweave.net/wARDIo0Wxwp7XCEMymMotsRpPOxwMIACBzIEGaNUx5U?ext=png",
+      "metadata_hash": "ee98d7b5224e3241259772e61b7de6dae6be6facba3ad29d6b9626da79bbf6c8",
+      "metadata_link": "https://arweave.net/9l56ehFGtezr3k3QWGXGOinWWNL97CoCjjIk0RRO-d4",
+      "onChain": true
+    },
+    "3": {
+      "name": "Shinobi #01",
+      "image_hash": "e5186effaba79fb283e6124a5fa9fa26354c56b37d50607acc885b802075fb1b",
+      "image_link": "https://arweave.net/rQRDcufkqQh3StFDClg9l5vecKQ6s2yrC-tgdulL-aA?ext=png",
+      "metadata_hash": "8d014428c36b3ffb6e65d105baeb50b6aaa6d0eb85ece011dd7a53d944b7fd0e",
+      "metadata_link": "https://arweave.net/wvp_UismQfSiuATMt9r6pnNYitk9I7GQ98gC6gMsXx4",
+      "onChain": true
+    },
+    "4": {
+      "name": "Shinobi #01",
+      "image_hash": "d94be470f087afd3dcf94c15b2b86750dd87b2815c0f69709ba9ced712bf17d4",
+      "image_link": "https://arweave.net/sHIRBr75ienLeK3863iAf5CJbR6wXL5I4Yvm8twHmUo?ext=png",
+      "metadata_hash": "0807cb8fb48ef77131c78fe8c059fed6e77a0fd3d982101e59cffe4da3de7fc5",
+      "metadata_link": "https://arweave.net/UxKuG2m2D3EXc4yOTcf7fl3pJt3j-oKjLfJN_ZF2pmQ",
+      "onChain": true
+    },
+    "5": {
+      "name": "Shinobi #01",
+      "image_hash": "c9d716ee7e1967eceeb1df48ad9c4f0430fbcb501652a008bc8f979da7134aa2",
+      "image_link": "https://arweave.net/Rtq9_MfyMNOmyOVzvXcTRls197I5mMm4gcqdQ7O9Yv4?ext=png",
+      "metadata_hash": "ace8d0012c5dc6fe8e53fd149fce329ea345f3d2f27e3e813b78f33ad894df2d",
+      "metadata_link": "https://arweave.net/L5svEQqxPU0VkkDkEDcNQ9kF46aHgkT0kHs-qAVP22E",
+      "onChain": true
+    },
+    "6": {
+      "name": "Shinobi #01",
+      "image_hash": "bf5b2e127872ca261d27d5d63e50f7ed176af8571a3d4b1804bbc6fbb4798d07",
+      "image_link": "https://arweave.net/5qzVNuodrtH3xs-lEUkQi4HAJmWoLQeYKN7DMObZOrs?ext=png",
+      "metadata_hash": "909c0c9c69fd82b8ff7fa5833e016f7ed984273536af9aab7c86b1592cf8d759",
+      "metadata_link": "https://arweave.net/yP4wKaseuXtO2jscAQ0_xYFCfTvqtg_SE6YQJ-oHco0",
+      "onChain": true
+    },
+    "7": {
+      "name": "Shinobi #01",
+      "image_hash": "3228e170eb4b3fabc93640fa72fff3cbdf2bac2eadb66517b1279ba9766e2635",
+      "image_link": "https://arweave.net/swvCgJ5K71ZrA5bmBTcsNfz2xdzzFVuGbXC3WcvOvh4?ext=png",
+      "metadata_hash": "c540cedf3a132ed3830f96d38d256a319270a4a83d9db884f04e742865cb5411",
+      "metadata_link": "https://arweave.net/_O8pFLXk6onk-vWYmnzUpJKHZbjIP3TpZP4paUweOFA",
+      "onChain": true
+    },
+    "8": {
+      "name": "Shinobi #01",
+      "image_hash": "fbe06c961bce3e0e3e68fe8e23490393d0365cc934e3aa303b89bbcae474afdc",
+      "image_link": "https://arweave.net/TI549-xK0vaiPMAY0Poyf3B4mYvCoj3iGLB9P0uESUc?ext=png",
+      "metadata_hash": "24f5f433dfe7642ba01bc5154ed372cd6b880c09a1ca6f619b58b5e3c656e210",
+      "metadata_link": "https://arweave.net/SJINIRCbC8oaeWECSQoUVs72KYtk7YZxo-Yym-_Cn60",
+      "onChain": true
+    }
+  }
+}

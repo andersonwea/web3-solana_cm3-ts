@@ -3,23 +3,55 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@metaplex-foundation/js": "^0.17.5",
+    "@mui/icons-material": "^5.10.14",
+    "@mui/lab": "^5.0.0-alpha.108",
+    "@mui/material": "^5.10.14",
+    "@project-serum/anchor": "^0.25.0",
+    "@solana-mobile/wallet-adapter-mobile": "^0.9.8",
+    "@solana/wallet-adapter-base": "^0.9.18",
+    "@solana/wallet-adapter-material-ui": "^0.16.20",
+    "@solana/wallet-adapter-phantom": "^0.9.17",
+    "@solana/wallet-adapter-react": "^0.15.24",
+    "@solana/wallet-adapter-react-ui": "^0.9.22",
+    "@solana/wallet-adapter-slope": "^0.5.16",
+    "@solana/wallet-adapter-solflare": "^0.6.18",
+    "@solana/wallet-adapter-sollet": "^0.11.12",
+    "@solana/wallet-adapter-wallets": "^0.19.5",
+    "@solana/web3.js": "^1.66.2",
+    "browserify-zlib": "^0.2.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-is": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "stream-browserify": "^3.0.0",
+    "styled-components": "^5.3.6",
+    "typescript": "^4.8.4",
+    "util": "^0.12.5",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.0.0",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
-    "@types/node": "^16.18.4",
+    "@types/node": "^16.18.3",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "typescript": "^4.9.3",
-    "web-vitals": "^2.1.4"
+    "@types/styled-components": "^5.1.26",
+    "assert": "^2.0.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -40,4 +72,5 @@
       "last 1 safari version"
     ]
   }
+
 }
